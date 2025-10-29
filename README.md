@@ -1,2 +1,3 @@
-# First-step
-My first time using Github
+# Web Development
+Learning Web development through the Golden Pacesetters 
+Company
